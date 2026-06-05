@@ -68,6 +68,8 @@ if charCode = 110 then str = ("$")
 if charCode = 109 then str = (")")
 
 if charCode = 32 then str = ("*")
+if charCode = 44 then str = ("}")
+if charCode = 46 then str = ("{")
 
 finalString = finalString & str
     
@@ -83,3 +85,11 @@ Next
 
 
 msgbox("OUTPUT: "&finalString)
+
+Set fso = CreateObject("Scripting.FileSystemObject")
+Set file = fso.CreateTextFile("D:/ENCRYPTION/SEB-A-ENCRYPTOR/e-out.txt")
+file.WriteLine ""&finalString
+file.Close
+
+Set file = Nothing
+Set fso = Nothing
