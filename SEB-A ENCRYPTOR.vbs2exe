@@ -1,0 +1,16 @@
+<convert2exe>
+    <uacLevel>asInvoker</uacLevel>
+    <iconfile>D:\Encryption\SEB-A-ENCRYPTOR\logo.ico</iconfile>
+    <folder>D:\Encryption\SEB-A-ENCRYPTOR\SEB-A ENCRYPTOR_executable</folder>
+    <dependencies />
+    <mode>gui</mode>
+    <appName>SEB-A ENCRYPTOR</appName>
+    <bits>64</bits>
+    <silent>no</silent>
+    <unicode>no</unicode>
+    <regfreecom>no</regfreecom>
+    <custom_description>My Description</custom_description>
+    <custom_copyright>© My Company Name 2026</custom_copyright>
+    <custom_productName>My Product Name</custom_productName>
+    <custom_version>1.0.0.0</custom_version>
+</convert2exe>
