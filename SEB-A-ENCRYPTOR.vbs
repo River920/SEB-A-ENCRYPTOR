@@ -94,3 +94,5 @@ file.Close
 
 Set file = Nothing
 Set fso = Nothing
+
+msgbox"Output is in e-out, in the same folder as this program.",0+64+0+4096, "SEB-A ENCRYPTOR"

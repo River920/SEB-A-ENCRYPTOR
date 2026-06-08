@@ -5,7 +5,7 @@
 #define MyAppName "SEB-A-ENCRYPTOR"
 #define MyAppVersion "1"
 #define MyAppPublisher "Finnedun Corp"
-#define MyAppExeName "SEB-A ENCRYPTOR.vbs"
+#define MyAppExeName "SEB-A-ENCRYPTOR.vbs"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
