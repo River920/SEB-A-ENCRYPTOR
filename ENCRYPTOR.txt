@@ -1,54 +1,26 @@
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-p
-q
-r
-s
-t
-u
-v
-w
-x
-y
-z
-
-
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
+aA - 6
+bB - @
+cC - #
+dD - 2
+eE - =
+fF - 0
+gG - \
+hH - /
+iI - 3
+jJ - :
+kK - ;
+lL - (
+mM - )
+nN - $
+oO - 5
+pP - 9
+qQ - ~
+rR - +
+sS - 1
+tT - 4
+uU - 8
+vV - !
+wW - \
+xX - ^
+yY - 7
+zZ - &
